@@ -1,0 +1,10 @@
+C:\Users\medra\source\repos\XEDTK\bin\Debug\XEDTK.exe.config
+C:\Users\medra\source\repos\XEDTK\bin\Debug\XEDTK.exe
+C:\Users\medra\source\repos\XEDTK\bin\Debug\XEDTK.pdb
+C:\Users\medra\source\repos\XEDTK\obj\Debug\XEDTK.csprojAssemblyReference.cache
+C:\Users\medra\source\repos\XEDTK\obj\Debug\XEDTK.Form1.resources
+C:\Users\medra\source\repos\XEDTK\obj\Debug\XEDTK.Properties.Resources.resources
+C:\Users\medra\source\repos\XEDTK\obj\Debug\XEDTK.csproj.GenerateResource.cache
+C:\Users\medra\source\repos\XEDTK\obj\Debug\XEDTK.csproj.CoreCompileInputs.cache
+C:\Users\medra\source\repos\XEDTK\obj\Debug\XEDTK.exe
+C:\Users\medra\source\repos\XEDTK\obj\Debug\XEDTK.pdb
